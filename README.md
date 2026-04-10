@@ -15,6 +15,16 @@ Proyek ini merupakan sistem autentikasi berbasis web menggunakan **PHP** dan **M
 
 ---
 
+## 📸 Tampilan Aplikasi
+
+### Halaman Registrasi
+![Halaman Registrasi](assets/registrasi.png)
+
+### Halaman Dashboard
+![Halaman Dashboard](assets/index.png)
+
+---
+
 ## 🛠️ Teknologi yang Digunakan
 
 | Teknologi        | Keterangan                          |
