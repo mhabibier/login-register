@@ -151,8 +151,3 @@ Buka Aplikasi
 
 ---
 
-## 👤 Author
-
-- **Nama**: Muhammad Habibie R  
-- **Kampus**: Telkom University  
-- **Mata Kuliah**: Keamanan Sistem
